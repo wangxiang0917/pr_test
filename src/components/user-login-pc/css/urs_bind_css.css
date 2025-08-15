@@ -1,0 +1,94 @@
+.m-header{
+  display: none;
+}
+.g-bd{
+  height:380px;
+  background: transparent;
+}
+.m-cnt{
+  margin-top:84px;
+}
+.u-tab{
+  margin-top:50px;
+  display:none;
+}
+.m-cnt .inputbox{
+  border-radius: 8px;
+}
+.m-cnt .u-input{
+  border-radius: 8px;
+  padding-left: 5px;
+}
+.mbItlBox input.dlemail{
+  width: 213px;
+}
+.m-cnt .pcbtn a{
+  border-radius:8px;
+}
+.btncolor{
+  border-radius: 8px;
+  background: linear-gradient(128deg, #E9653f 0%, #D83A34 52%, #D52E4c 100%);
+}
+.j-country  a{
+  display: none;
+}
+.j-country .flag-CN {
+  display: block;
+}
+.j-country .flag-TW {
+  display: block;
+}
+.j-country .flag-HK {
+  display: block;
+}
+.j-country .flag-MO {
+  display: block;
+}
+.j-country .flag-SG {
+  display: block;
+}
+.j-country .flag-JP {
+  display: block;
+}
+.j-country .flag-KR {
+  display: block;
+}
+.j-country .flag-US {
+  display: block;
+}
+.j-country .flag-CA {
+  display: block;
+}
+.j-country .flag-AU {
+  display: block;
+}
+.j-country .flag-NZ {
+  display: block;
+}
+.j-country .flag-BE {
+  display: block;
+}
+.j-country .flag-DK {
+  display: block;
+}
+.j-country .flag-DE {
+  display: block;
+}
+.j-country .flag-FR {
+  display: block;
+}
+.j-country .flag-FI {
+  display: block;
+}
+.j-country .flag-NL {
+  display: block;
+}
+.j-country .flag-IT {
+  display: block;
+}
+.j-country .flag-GB {
+  display: block;
+}
+.j-country .flag-CZ{
+  display: block;
+}
